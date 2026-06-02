@@ -1,4 +1,4 @@
-# 
+# Nuevo Krita flujo de trabajo para Mac OS | Personalizado Krita flujo de trabajo para PC Windows. Con subexposición y sobreexposición y motor de renderizado — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
